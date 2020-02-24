@@ -9,10 +9,10 @@ mainpitch:
   description: |
     Jo, för att vi är typ bäst!
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Kaldi is the ultimate place for coffee lovers who want to learn about their
+  java’s origin and support the developers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
